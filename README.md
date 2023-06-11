@@ -1,4 +1,5 @@
 # TranscribeAI (A software that uses advanced speech recognition for real-time human conversation)
+[![Keras](https://img.shields.io/badge/keras-2.7.0-red.svg?logo=keras)](https://github.com/keras-team/keras)
 [![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/7452/badge)](https://bestpractices.coreinfrastructure.org/projects/7452)
 [![Code of Conduct: Contributor Covenant](https://img.shields.io/badge/code_of_conduct-contributor_covenant-14cc21?logo=github)](https://github.com/EthicalSource/contributor_covenant)
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?logo=github)](https://github.com/TranscriptAI/TranscribeAI/releases)
