@@ -1,11 +1,11 @@
 # TranscribeAI (A software that uses advanced speech recognition for real-time human conversation)
 [![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/7452/badge)](https://bestpractices.coreinfrastructure.org/projects/7452)
 [![Code of Conduct: Contributor Covenant](https://img.shields.io/badge/code_of_conduct-contributor_covenant-14cc21)](https://github.com/EthicalSource/contributor_covenant)
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/TranscriptAI/TranscribeAI/releases)
-[![Sponsors](https://img.shields.io/badge/sponsors-2-yellow.svg)](https://ko-fi.com/R5R0M2YFE)
-[![Contributors](https://img.shields.io/github/contributors/TranscriptAI/TranscribeAI.svg)](https://github.com/TranscriptAI/TranscribeAI/graphs/contributors)
-[![Discussions](https://img.shields.io/github/discussions/TranscriptAI/TranscribeAI.svg)](https://github.com/TranscriptAI/TranscribeAI/discussions)
-[![Issues](https://img.shields.io/github/issues/TranscriptAI/TranscribeAI.svg)](https://github.com/TranscriptAI/TranscribeAI/issues)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?logo=github)](https://github.com/TranscriptAI/TranscribeAI/releases)
+[![Sponsors](https://img.shields.io/badge/sponsors-2-yellow.svg?logo=github)](https://ko-fi.com/R5R0M2YFE)
+[![Contributors](https://img.shields.io/github/contributors/TranscriptAI/TranscribeAI.svg?logo=github)](https://github.com/TranscriptAI/TranscribeAI/graphs/contributors)
+[![Discussions](https://img.shields.io/github/discussions/TranscriptAI/TranscribeAI.svg?logo=github)](https://github.com/TranscriptAI/TranscribeAI/discussions)
+[![Issues](https://img.shields.io/github/issues/TranscriptAI/TranscribeAI.svg?logo=github)](https://github.com/TranscriptAI/TranscribeAI/issues)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ## Overview
 This repository contains the source code behind the creation of TranscribeAI for audio conversation. The software utilizes advanced speech recognition techniques to transcribe spoken language into text in real-time. It also provides features for conducting conversations using the transcribed text.
