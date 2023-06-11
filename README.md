@@ -19,12 +19,7 @@ This repository contains the source code behind the creation of TranscribeAI for
 - Text formatting and editing options
 - Behavior learning
 ## Sponsors
-Support this project by becoming a sponsor! Your sponsorship helps to maintain and improve the software.
-### patreon:
-[![Support me on Patreon](https://img.shields.io/badge/Support%20me%20on-Patreon-orange.svg?style=for-the-badge&logo=patreon)](https://www.patreon.com/TranscribeAI)
-
-### ko-fi:
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R0M2YFE)
+Support this project by becoming a sponsor! Your sponsorship helps to maintain and improve the software. 
 ## Contributors
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 1. Fork the repository.
