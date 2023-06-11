@@ -42,7 +42,7 @@ git push origin feature/your-feature-name
 6. Open a pull request, describing your changes in detail.
 ## Discussions
 To join the discussions, ask questions, share ideas, and get support, follow these steps:
-1. In the discussions section, find the general discussion thread where you want to add a comment. Click the [discussion title](https://github.com/TranscriptAI/TranscribeAI/discussions/1) to open it.
+1. In the discussions section, find the general discussion thread where you want to add a comment. Click [here](https://github.com/TranscriptAI/TranscribeAI/discussions/1) to open it.
 2. Once you're inside the discussion thread, scroll down to view the existing comments and find the comment box.
 3. In the comment box, type your comment or response to the discussion. format your comment using Markdown, allowing you to add formatting and more.
 4. To preview how your comment will look before posting it, click the "Preview" tab located below the comment box to help ensure your comment appears as intended.
