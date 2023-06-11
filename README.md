@@ -57,7 +57,7 @@ To use issue tracker for bug reports, custom feature requests, and other issues,
 4. To add labels, click the "Labels" button on the right-hand side of the issue form. To assign an issue, click the "Assignees" button.
 5. Add additional context by attaching files, including screenshots or code snippets, by clicking on the "Attach files" button. Use the formatting options provided by Markdown to structure your issue description or add code blocks.
 6. If you want to see how your issue will look before submitting it, click the "Preview" tab located below the issue form. This step is optional but can help ensure your issue appears as intended.
-7. After you've provided all the necessary information, click the "Submit new issue" button at the bottom of the form to create the issue. Actively participate in this discussion by replying to comments or providing clarifications. That's it! You've successfully created an issue on GitHub.
+7. After you've provided all the necessary information, click the "Submit new issue" button at the bottom of the form to create the issue. That's it! You've successfully created an issue on GitHub.
 ## License
 This software is licensed under the **MIT License**.
 ## Embrace The Future!
