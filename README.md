@@ -1,6 +1,6 @@
 # TranscribeAI (A software that uses advanced speech recognition for real-time human conversation)
 [![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/7452/badge)](https://bestpractices.coreinfrastructure.org/projects/7452)
-[![Code of Conduct: Contributor Covenant](https://img.shields.io/badge/code_of_conduct-contributor_covenant-14cc21)](https://github.com/EthicalSource/contributor_covenant)
+[![Code of Conduct: Contributor Covenant](https://img.shields.io/badge/code_of_conduct-contributor_covenant-14cc21?logo=github)](https://github.com/EthicalSource/contributor_covenant)
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?logo=github)](https://github.com/TranscriptAI/TranscribeAI/releases)
 [![Sponsors](https://img.shields.io/badge/sponsors-2-yellow.svg?logo=github)](https://ko-fi.com/R5R0M2YFE)
 [![Contributors](https://img.shields.io/github/contributors/TranscriptAI/TranscribeAI.svg?logo=github)](https://github.com/TranscriptAI/TranscribeAI/graphs/contributors)
