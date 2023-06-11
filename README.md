@@ -50,8 +50,7 @@ To join the discussions, ask questions, share ideas, and get support, follow the
 To receive notifications about new comments or updates to the discussion, click the "Watch" button near the top-right corner of the discussion page. This will ensure you stay up to date with any new activity in the discussion. And that's it! Your comment should now be added to the GitHub discussion thread.
 ## Issues
 To use issue tracker for bug reports, custom feature requests, and other issues, follow these steps:
-1. Locate the "Issues" tab near the top of the page. Click it to access the issues section.
-2. Once you're in the issues section, Click the green "New issue" button on the right-hand side of the page to start creating a new issue.
+2. Once you're in the issues section, Click the green "[New issue](https://github.com/TranscriptAI/TranscribeAI/issues/new/choose)" button on the right-hand side of the page to start creating a new issue.
 3. In the issue creation form, enter a title for your issue. The title should summarize the problem or feature request concisely. Also, in the main text area, provide a detailed description of the issue, including any relevant information such as steps to reproduce a bug or suggestions for implementing a new feature.
 4. To add labels, click the "Labels" button on the right-hand side of the issue form. To assign an issue, click the "Assignees" button.
 5. Add additional context by attaching files, including screenshots or code snippets, by clicking on the "Attach files" button. Use the formatting options provided by Markdown to structure your issue description or add code blocks.
