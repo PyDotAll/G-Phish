@@ -17,7 +17,7 @@ This repository contains the source code behind the creation of TranscribeAI for
 - Speaker diarization (identification of different speakers)
 - Language identification (currently in english only)
 - Text formatting and editing options
-- Behavior learning
+- Emotion classification
 ## Sponsors
 Support this project by becoming a sponsor! Your sponsorship helps to maintain and improve the software. 
 ## Contributors
