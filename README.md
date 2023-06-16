@@ -82,5 +82,3 @@ To use issue tracker for bug reports, custom feature requests, and other issues,
 6. After you've provided all the necessary information, click the **Submit new issue** button at the bottom of the form to create the issue. That's it! You've successfully created an issue on GitHub.
 ## License
 This software is licensed under the **MIT License**.
-## Embrace The Future!
-![Intro-HELLO-FUTURE-1920x1080_v2](https://github.com/TranscriptAI/TranscribeAI/assets/136038564/47310abd-0273-4c53-8712-e2b116c607b6)
