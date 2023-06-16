@@ -8,7 +8,7 @@
 [![Contributors](https://img.shields.io/github/contributors/TranscriptAI/TranscribeAI.svg?logo=github)](https://github.com/TranscriptAI/TranscribeAI/graphs/contributors)
 [![Discussions](https://img.shields.io/github/discussions/TranscriptAI/TranscribeAI.svg?logo=github)](https://github.com/TranscriptAI/TranscribeAI/discussions)
 [![Issues](https://img.shields.io/github/issues/TranscriptAI/TranscribeAI.svg?logo=github)](https://github.com/TranscriptAI/TranscribeAI/issues)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/TranscriptAI/TranscribeAI/blob/main/LICENSE)
 ## Overview
 This repository contains the source code behind the creation of TranscribeAI for audio conversation. The software utilizes advanced speech recognition techniques to transcribe spoken language into text in real-time. It also provides features for conducting conversations using the transcribed text.
 ## Features
