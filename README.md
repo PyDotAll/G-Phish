@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/github/contributors/TranscriptAI/TranscribeAI.svg?logo=github" alt="Contributors" width="119"/>
   </a>
   <a href="https://github.com/TranscriptAI/TranscribeAI/discussions">
-    <img src="https://img.shields.io/github/discussions/TranscriptAI/TranscribeAI.svg?logo=github" alt="Discussions" width="140"/>
+    <img src="https://img.shields.io/github/discussions/TranscriptAI/TranscribeAI.svg?logo=github" alt="Discussions" width="144"/>
   </a>
   <a href="https://github.com/TranscriptAI/TranscribeAI/issues">
     <img src="https://img.shields.io/github/issues/TranscriptAI/TranscribeAI.svg?logo=github" alt="Issues" width="111"/>
