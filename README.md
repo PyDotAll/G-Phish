@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://share.creavite.co/UTuMYfsnjuS4ovgB.gif" alt="MasterHead" width="100%">
+  <img src="https://share.creavite.co/iLcCOEeIYUNZQYCP.gif" alt="MasterHead" width="100%">
 </div>
 
 # TranscribeAI (A software that uses advanced speech recognition for real-time human conversation)
