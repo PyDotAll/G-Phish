@@ -29,10 +29,10 @@
     <img src="https://img.shields.io/github/discussions/TranscriptAI/TranscribeAI.svg?logo=github" alt="Discussions" width="144"/>
   </a>
   <a href="https://github.com/TranscriptAI/TranscribeAI/issues">
-    <img src="https://img.shields.io/github/issues/TranscriptAI/TranscribeAI.svg?logo=github" alt="Issues" width="111"/>
+    <img src="https://img.shields.io/github/issues/TranscriptAI/TranscribeAI.svg?logo=github" alt="Issues" width="114"/>
   </a>
   <a href="https://github.com/TranscriptAI/TranscribeAI/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License" width="81"/>
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License" width="83"/>
   </a>
 </p>
 
