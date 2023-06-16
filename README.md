@@ -2,17 +2,40 @@
   <img src="https://share.creavite.co/iLcCOEeIYUNZQYCP.gif" alt="MasterHead" width="100%">
 </div>
 
-#
-[![Python](https://img.shields.io/badge/Python-3.9-blue.svg?logo=python)](https://www.python.org/)
-[![Keras](https://img.shields.io/badge/keras-2.7.0-red.svg?logo=keras)](https://github.com/keras-team/keras)
-[![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/7452/badge)](https://bestpractices.coreinfrastructure.org/projects/7452)
-[![Code of Conduct: Contributor Covenant](https://img.shields.io/badge/code_of_conduct-contributor_covenant-14cc21?logo=github)](https://github.com/EthicalSource/contributor_covenant)
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?logo=github)](https://github.com/TranscriptAI/TranscribeAI/releases)
-[![Sponsors](https://img.shields.io/badge/sponsors-2-yellow.svg?logo=github)](https://ko-fi.com/R5R0M2YFE)
-[![Contributors](https://img.shields.io/github/contributors/TranscriptAI/TranscribeAI.svg?logo=github)](https://github.com/TranscriptAI/TranscribeAI/graphs/contributors)
-[![Discussions](https://img.shields.io/github/discussions/TranscriptAI/TranscribeAI.svg?logo=github)](https://github.com/TranscriptAI/TranscribeAI/discussions)
-[![Issues](https://img.shields.io/github/issues/TranscriptAI/TranscribeAI.svg?logo=github)](https://github.com/TranscriptAI/TranscribeAI/issues)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/TranscriptAI/TranscribeAI/blob/main/LICENSE)
+<h1 align="center">TranscribeAI</h1>
+<p align="center">
+  <a href="https://www.python.org">
+    <img src="https://img.shields.io/badge/Python-3.9-blue.svg?logo=python" alt="Python" width="100"/>
+  </a>
+  <a href="https://github.com/keras-team/keras">
+    <img src="https://img.shields.io/badge/Keras-2.7.0-red.svg?logo=keras" alt="Keras" width="103"/>
+  </a>
+  <a href="https://bestpractices.coreinfrastructure.org/projects/7452">
+    <img src="https://bestpractices.coreinfrastructure.org/projects/7452/badge" alt="OpenSSF Best Practices" width="242"/>
+  </a>
+  <a href="https://github.com/EthicalSource/contributor_covenant">
+    <img src="https://img.shields.io/badge/code_of_conduct-contributor_covenant-14cc21?logo=github" alt="Code of Conduct: Contributor Covenant" width="254"/>
+  </a>
+  <a href="https://github.com/TranscriptAI/TranscribeAI/releases">
+    <img src="https://img.shields.io/badge/version-1.0.0-blue.svg?logo=github" alt="Version" width="114"/>
+  </a>
+  <a href="https://ko-fi.com/R5R0M2YFE">
+    <img src="https://img.shields.io/badge/sponsors-2-yellow.svg?logo=github" alt="Sponsors" width="100"/>
+  </a>
+  <a href="https://github.com/TranscriptAI/TranscribeAI/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/TranscriptAI/TranscribeAI.svg?logo=github" alt="Contributors" width="116"/>
+  </a>
+  <a href="https://github.com/TranscriptAI/TranscribeAI/discussions">
+    <img src="https://img.shields.io/github/discussions/TranscriptAI/TranscribeAI.svg?logo=github" alt="Discussions" width="140"/>
+  </a>
+  <a href="https://github.com/TranscriptAI/TranscribeAI/issues">
+    <img src="https://img.shields.io/github/issues/TranscriptAI/TranscribeAI.svg?logo=github" alt="Issues" width="111"/>
+  </a>
+  <a href="https://github.com/TranscriptAI/TranscribeAI/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License" width="81"/>
+  </a>
+</p>
+
 ## Overview
 This repository contains the source code behind the creation of TranscribeAI for audio conversation. The software utilizes advanced speech recognition techniques to transcribe spoken language into text in real-time. It also provides features for conducting conversations using the transcribed text.
 ## Features
