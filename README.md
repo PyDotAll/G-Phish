@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/sponsors-2-yellow.svg?logo=github" alt="Sponsors" width="100"/>
   </a>
   <a href="https://github.com/TranscriptAI/TranscribeAI/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/TranscriptAI/TranscribeAI.svg?logo=github" alt="Contributors" width="116"/>
+    <img src="https://img.shields.io/github/contributors/TranscriptAI/TranscribeAI.svg?logo=github" alt="Contributors" width="117"/>
   </a>
   <a href="https://github.com/TranscriptAI/TranscribeAI/discussions">
     <img src="https://img.shields.io/github/discussions/TranscriptAI/TranscribeAI.svg?logo=github" alt="Discussions" width="140"/>
