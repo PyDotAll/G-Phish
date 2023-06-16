@@ -2,7 +2,7 @@
   <img src="https://share.creavite.co/iLcCOEeIYUNZQYCP.gif" alt="MasterHead" width="100%">
 </div>
 
-<h1 align="center">TranscribeAI</h1>
+<h1 align="center">TranscribeAI (for real-time human conversation)</h1>
 <p align="center">
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Python-3.9-blue.svg?logo=python" alt="Python" width="100"/>
