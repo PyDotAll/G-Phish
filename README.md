@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://share.creavite.co/UTuMYfsnjuS4ovgB.gif" alt="MasterHead" width="100%">
+</div>
+
 # TranscribeAI (A software that uses advanced speech recognition for real-time human conversation)
 [![Python](https://img.shields.io/badge/Python-3.9-blue.svg?logo=python)](https://www.python.org/)
 [![Keras](https://img.shields.io/badge/keras-2.7.0-red.svg?logo=keras)](https://github.com/keras-team/keras)
