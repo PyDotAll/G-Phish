@@ -1,10 +1,9 @@
-Welcome to Lumache's documentation!
+Welcome to TranscribeAI's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**TranscribeAI** is a Python library for training interactive conversation between a customer and an ai.
+It uses generative AI (state of the art) to mimic the voice of any customer service accurately. I'm planning to_
+make a *simple* and *intuitive* API to let everyone use its capabilities.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
