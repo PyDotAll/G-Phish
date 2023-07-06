@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'TranscribeAI'
+project = 'GPhish'
 copyright = '2023, CarmZy'
 author = 'CarmZy'
 
