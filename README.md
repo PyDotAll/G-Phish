@@ -46,9 +46,9 @@ This repository contains the source code for creating a formal phishing attack i
 - Still fixing checkbox that's triggering the malfunction
 ## Installation
 ### Webdriver Manager Aver The Regular
-Please update your venv to 3.11 to avoid any further issues. If you don't have v3.11 yet, I highly encourage you to create a new one suitable by installing the necessary python version for it. This would help the execution of the code more robust.
+Please update your venv to 3.11 to avoid any further issues. If you don't have v3.11 yet, I highly encourage you to create one by installing the necessary python version for it. This would help the execution of the code more robust.
 
-Please make sure to pip install a webdriver manager in your venv to automatically manage drivers for different browsers. This ensures the compatibility of the Selenium web driver, making the executable file size larger than usual. In Windows, the file is automatically stored at _C:\Users\Username\.wdm_ directory.
+Please make sure to pip install a webdriver manager in your venv to automatically manage drivers for different browsers. This ensures the compatibility of the Selenium web driver, making the executable file size larger than usual. In Windows, the file is automatically stored at _"C:\Users\Username\.wdm"_ directory.
 ```cmd
 (venv_name) C:\Users\Username\python_project_file>pip install webdriver-manager
 ```
