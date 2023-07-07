@@ -30,7 +30,12 @@
   <a href="https://github.com/TranscriptAI/TranscribeAI/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License" width="83"/>
   </a>
+  <a href="https://GPhish.readthedocs.io/en/latest">
+    <img src="https://img.shields.io/badge/docs-Read%20the%20Docs-blue.svg" alt="ReadTheDocs" width="83"/>
+  </a>
 </p>
+
+[![Documentation Status](https://readthedocs.org/projects/GPhish/badge/?version=latest)](https://GPhish.readthedocs.io/en/latest)
 
 ### Overview
 This repository contains the source code for creating a formal phishing attack in Gmail. The concept commonly relies on JQuery code injections somewhere in the HTML content of the sign-in page, using a minimal CDN in JS. However, in spite of the possibillity, there's no foolproof method for real hacking. The purpose of this code is to provide a formal proof of concept for establishing a phishing attack in Gmail.
