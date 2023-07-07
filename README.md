@@ -32,15 +32,17 @@
   </a>
 </p>
 
-## Overview
-This repository contains the source code behind the creation of TranscribeAI for audio conversation. The software utilizes advanced speech recognition techniques to transcribe spoken language into text in real-time. It also provides features for conducting conversations using the transcribed text.
-## Features
-- Real-time speech-to-text transcription
-- Conversation management
-- Speaker diarization (identification of different speakers)
-- Language identification (currently in english only)
-- Text formatting and editing options
-- Emotion classification
+# Overview
+This repository contains the source code for creating a formal phishing attack in Gmail. The concept commonly relies on JQuery code injections somewhere in the html content of the sign-in page, using a minimal CDN in javascript.
+## Pros
+- Code injection within '<script>' tag
+- Interaction between the attacker and the victim
+- Easy to use with little to no setup
+- Based on Google's current CSS selectors 
+## Cons
+- Runs on http but will soon be run in https
+- Does not support anonymity, use with precaution
+- Still fixing checkbox that's triggering the malfunction
 ## Sponsors
 Support this project by becoming a sponsor! Your sponsorship helps to maintain and improve the software. 
 ## Contributors
