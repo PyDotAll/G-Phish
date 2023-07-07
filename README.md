@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/version-1.0.0-blue.svg?logo=github" alt="Version" width="114"/>
   </a>
   <a href="https://ko-fi.com/R5R0M2YFE">
-    <img src="https://img.shields.io/badge/sponsors-2-yellow.svg?logo=github" alt="Sponsors" width="100"/>
+    <img src="https://img.shields.io/badge/sponsors-2-yellow.svg?logo=github" alt="Sponsors" width="99"/>
   </a>
   <a href="https://github.com/TranscriptAI/TranscribeAI/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/TranscriptAI/TranscribeAI.svg?logo=github" alt="Contributors" width="119"/>
