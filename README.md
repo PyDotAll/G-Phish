@@ -33,10 +33,10 @@
 </p>
 
 ## Overview
-### Python, Javascript, HTML And CSS Integration 
+### Python, Javascript, HTML And CSS Integration 🥳
 This repository contains the source code for creating a formal phishing attack in Gmail. The concept commonly relies on JQuery code injections somewhere in the HTML content of the sign-in page, using a minimal CDN in JS.
 
-However, in spite of the possibillity, there's no foolproof method for real hacking. The purpose of this repository is to provide a formal proof of concept for establishing a phishing attack in Gmail, for educational purposes only.
+However, in spite of the possibility, there's no foolproof method for real hacking. The purpose of this repository is to provide a formal proof of concept for establishing a phishing attack in Gmail, for educational purposes only.
 ### Advantages Of GPhish 😏
 > Code injection within '<script>' tag
 >> Interaction between the attacker and the victim
@@ -48,7 +48,7 @@ However, in spite of the possibillity, there's no foolproof method for real hack
 
 Still fixing the checkbox that's triggering the malfunction. The fake_headers library only generates 50% success in achieving a 200 HTTP status code. I'm planning to create a workaround for this, maybe a good'al ML algorithm that can help it perform better. 
 ## Installation
-### Webdriver Manager Over The Regular
+### Webdriver Manager Over The Regular 🥸
 Please update your venv to 3.11 to avoid any further issues. If you don't have v3.11 yet, I highly encourage you to create one by installing the necessary Python version for it. This would make the code execution more robust.
 
 Please make sure to pip install a webdriver manager in your venv to automatically manage drivers for different browsers. This ensures the compatibility of the Selenium web driver, making the executable file size larger than usual. In Windows, the file is automatically stored in _"C:\Users\Username\.wdm"_ directory.
@@ -60,17 +60,17 @@ After pip installing webdriver-manager, install undetectable-chromedriver using 
 (venv_name) C:\Users\Username\python_project_file>pip install undetectable-chromedriver
 ```
 The purpose of using this is to optimize the Selenium Chromedriver patch. This avoids the triggering of anti-bot services like Distill Network, Imperva, DataDome, Botprotect.io, and so on. This also automatically downloads the driver binary and patches it.
-### Don't Forget Selenium
+### Don't Forget Selenium 😇
 However, don't be confused about what's webdriver or webdriver-manager. Therefore, you should still install Selenium via pip because it's the most crucial part to make browser automation possible at POC.py.
 ```cmd
 (venv_name) C:\Users\Username\python_project_file>pip install -U selenium
 ```
-### Other Non Default Installations
+### Other Non Default Installations 😄
 For other non default python libraries, please install via main/requirements.txt. 
 ## Usage
-### Just Run POC.py
+### Just Run POC.py 🤩
 That's how simple it is. If you have any concerns on your own end or any enhancements, please do let me know. You can convert POC.py to executable file using pyinstaller library if you want a simple click, but that would require modifications to the code to integrate CLI using Windows' CMD.
-### Gmail Sample Page
+### Gmail Sample Page 😚
 Here's the gmail sample phishing page:
 ![Screenshot 2023-07-07 182949](https://github.com/TranscriptAI/GPhish/assets/136038564/e4f2afef-6171-4d4a-b2be-ff5bf4e4d7e1)
 ## Sponsors
