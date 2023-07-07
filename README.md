@@ -32,6 +32,7 @@
   </a>
 </p>
 
+## Introduction
 ### Overview
 This repository contains the source code for creating a formal phishing attack in Gmail. The concept commonly relies on JQuery code injections somewhere in the HTML content of the sign-in page, using a minimal CDN in JS. However, in spite of the possibillity, there's no foolproof method for real hacking. The purpose of this code is to provide a formal proof of concept for establishing a phishing attack in Gmail.
 ### Pros
@@ -43,8 +44,19 @@ This repository contains the source code for creating a formal phishing attack i
 - Runs on http but will soon be run on https
 - Does not support anonymity in the account creation, use with precaution
 - Still fixing checkbox that's triggering the malfunction
-### Installation
-- You can install this
+## Installation
+### Webdriver Manager Aver The Regular
+Please update your venv to 3.11 to avoid any further issues. If you don't have v3.11 yet, I highly encourage you to create a new one suitable by installing the necessary python version for it. This would help the execution of the code more robust.
+
+Please make sure to pip install a webdriver manager in your venv to automatically manage drivers for different browsers. This ensures the compatibility of the Selenium web driver, making the executable file size larger than usual. In Windows, the file is automatically stored at _C:\Users\Username\.wdm_ directory.
+```cmd
+(venv_name) C:\Users\Username\python_project_file>pip install webdriver-manager
+```
+After pip installing webdriver-manager, install undetectable-chromedriver using this command:
+```cmd
+(venv_name) C:\Users\Username\python_project_file>pip install undetectable-chromedriver
+```
+The purpose of using this is to optimize Selenium Chromedriver patch. This avoid triggering of anti-bot services like Distill Network, Imperva, DataDome, Botprotect.io and so on. This also automatically downloads the driver binary and patches it.
 ### Gmail Sample Page
 ![Screenshot 2023-07-07 182949](https://github.com/TranscriptAI/GPhish/assets/136038564/e4f2afef-6171-4d4a-b2be-ff5bf4e4d7e1)
 ### Sponsors
