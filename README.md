@@ -33,7 +33,7 @@
 </p>
 
 ### Overview
-This repository contains the source code for creating a formal phishing attack in Gmail. The concept commonly relies on JQuery code injections somewhere in the HTML content of the sign-in page, using a minimal CDN in JS. However, in spite of the possibillity, there's no foolproof method for real hacking. The purpose of this code is to create a formal proof of concept for establishing a phishing attack that's specifically catered in Gmail. 
+This repository contains the source code for creating a formal phishing attack in Gmail. The concept commonly relies on JQuery code injections somewhere in the HTML content of the sign-in page, using a minimal CDN in JS. However, in spite of the possibillity, there's no foolproof method for real hacking. The purpose of this code is to provide a formal proof of concept for establishing a phishing attack in Gmail.
 ### Pros
 - Code injection within '<script>' tag
 - Interaction between the attacker and the victim
