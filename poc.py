@@ -181,7 +181,7 @@ def postEmail():
 
 @app.route('/Password')
 def Password():
-    password_page = 'password_page.html'
+    password_page = 'password_page.html' 
     while True:
         if path.exists(password_page):
             result = make_response(send_file(password_page))
