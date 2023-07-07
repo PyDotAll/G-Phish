@@ -1,11 +1,7 @@
-<div align="center">
-  <img src="https://share.creavite.co/iLcCOEeIYUNZQYCP.gif" alt="MasterHead" width="100%">
-</div>
-
-<h1 align="center">TranscribeAI</h1>
+<h1 align="center">GPhish</h1>
 <p align="center">
   <a href="https://www.python.org">
-    <img src="https://img.shields.io/badge/Python-3.9-blue.svg?logo=python" alt="Python" width="100"/>
+    <img src="https://img.shields.io/badge/Python-3.11-blue.svg?logo=python" alt="Python" width="105"/>
   </a>
   <a href="https://github.com/keras-team/keras">
     <img src="https://img.shields.io/badge/Keras-2.7.0-red.svg?logo=keras" alt="Keras" width="103"/>
