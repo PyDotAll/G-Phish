@@ -61,16 +61,16 @@ After pip installing webdriver-manager, install undetectable-chromedriver using 
 ```
 The purpose of using this is to optimize the Selenium Chromedriver patch. This avoids the triggering of anti-bot services like Distill Network, Imperva, DataDome, Botprotect.io, and so on. This also automatically downloads the driver binary and patches it.
 ### Don't Forget Selenium
-However, don't be confused of what's webdriver or webdriver-manager. Therefore, you should still install Selenium via pip because it's the most crucial part of making browser automation possible at POC.py.
+However, don't be confused about what's webdriver or webdriver-manager. Therefore, you should still install Selenium via pip because it's the most crucial part to make browser automation possible at POC.py.
 ```cmd
 (venv_name) C:\Users\Username\python_project_file>pip install -U selenium
 ```
-### Other Installations
-For other non-default python libraries, please install via main/requirements.txt. 
+### Other Non Default Installations
+For other non default python libraries, please install via main/requirements.txt. 
 ### Gmail Sample Page
 ![Screenshot 2023-07-07 182949](https://github.com/TranscriptAI/GPhish/assets/136038564/e4f2afef-6171-4d4a-b2be-ff5bf4e4d7e1)
 ### Sponsors
-Support this project by becoming a sponsor! Your sponsorship helps to maintain and improve the software.
+Support this project by becoming a sponsor! Your sponsorship helps to maintain and improve this project and soon be able to develop a playground for pentesters and infosec experts who are willing and interested.
 ### Contributors
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 1. Fork the repository.
