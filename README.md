@@ -45,6 +45,9 @@ This repository contains the source code for creating a formal phishing attack i
 - Still fixing checkbox that's triggering the malfunction
 ### Installation
 - You can install this
+### Gmail Simple Result
+![Screenshot 2023-07-07 182949](https://github.com/TranscriptAI/GPhish/assets/136038564/e4f2afef-6171-4d4a-b2be-ff5bf4e4d7e1)
+
 ### Sponsors
 Support this project by becoming a sponsor! Your sponsorship helps to maintain and improve the software.
 ### Contributors
