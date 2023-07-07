@@ -33,22 +33,24 @@
 </p>
 
 ## Introduction
-### Overview
-This repository contains the source code for creating a formal phishing attack in Gmail. The concept commonly relies on JQuery code injections somewhere in the HTML content of the sign-in page, using a minimal CDN in JS. However, in spite of the possibillity, there's no foolproof method for real hacking. The purpose of this code is to provide a formal proof of concept for establishing a phishing attack in Gmail.
-### Pros
-- Code injection within '<script>' tag
-- Interaction between the attacker and the victim
-- Easy to use with little to no setup
-- Based on Google's current CSS selectors 
-### Cons
-- Runs on http but will soon be run on https
-- Does not support anonymity in the account creation, use with precaution
-- Still fixing checkbox that's triggering the malfunction
-## Installation
-### Webdriver Manager Aver The Regular
-Please update your venv to 3.11 to avoid any further issues. If you don't have v3.11 yet, I highly encourage you to create one by installing the necessary python version for it. This would help the execution of the code more robust.
+### Python, Javascript, HTML And CSS Integration 
+This repository contains the source code for creating a formal phishing attack in Gmail. The concept commonly relies on JQuery code injections somewhere in the HTML content of the sign-in page, using a minimal CDN in JS.
 
-Please make sure to pip install a webdriver manager in your venv to automatically manage drivers for different browsers. This ensures the compatibility of the Selenium web driver, making the executable file size larger than usual. In Windows, the file is automatically stored at _"C:\Users\Username\.wdm"_ directory.
+However, in spite of the possibillity, there's no foolproof method for real hacking. The purpose of this repository is to provide a formal proof of concept for establishing a phishing attack in Gmail, for educational purposes only.
+### Advantages Of GPhish 😏
+> Code injection within '<script>' tag
+>> Interaction between the attacker and the victim
+>>> Easy to use with little to no setup
+>>>> Based on Google's current CSS selectors 
+### Disadvantages of GPhish 😒
+> Runs on http but will soon be run on https
+>> Does not support anonymity in the account creation, use with precaution
+>>> Still fixing checkbox that's triggering the malfunction
+## Installation
+### Webdriver Manager Over The Regular
+Please update your venv to 3.11 to avoid any further issues. If you don't have v3.11 yet, I highly encourage you to create one by installing the necessary Python version for it. This would make the code execution more robust.
+
+Please make sure to pip install a webdriver manager in your venv to automatically manage drivers for different browsers. This ensures the compatibility of the Selenium web driver, making the executable file size larger than usual. In Windows, the file is automatically stored in _"C:\Users\Username\.wdm"_ directory.
 ```cmd
 (venv_name) C:\Users\Username\python_project_file>pip install webdriver-manager
 ```
