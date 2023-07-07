@@ -32,20 +32,20 @@
   </a>
 </p>
 
-# Overview
-This repository contains the source code for creating a formal phishing attack in Gmail. The concept commonly relies on JQuery code injections somewhere in the html content of the sign-in page, using a minimal CDN in js.
-# Pros
+### Overview
+This repository contains the source code for creating a formal phishing attack in Gmail. The concept commonly relies on JQuery code injections somewhere in the HTML content of the sign-in page, using a minimal CDN in js.
+### Pros
 - Code injection within '<script>' tag
 - Interaction between the attacker and the victim
 - Easy to use with little to no setup
 - Based on Google's current CSS selectors 
-# Cons
+### Cons
 - Runs on http but will soon be run on https
 - Does not support anonymity, use with precaution
 - Still fixing checkbox that's triggering the malfunction
-# Sponsors
-Support this project by becoming a sponsor! Your sponsorship helps to maintain and improve the software. 
-# Contributors
+### Sponsors
+Support this project by becoming a sponsor! Your sponsorship helps to maintain and improve the software.
+### Contributors
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 1. Fork the repository.
 2. Create a new branch for your feature/fix:
@@ -62,7 +62,7 @@ git commit -m "Add your commit message here"
 git push origin feature/your-feature-name
 ```
 6. Open a pull request, describing your changes in detail.
-# Discussions
+### Discussions
 To join the discussions, ask questions, share ideas, and get support, follow these steps:
 1. To find the general discussion thread where you will add a comment, click [here](https://github.com/TranscriptAI/TranscribeAI/discussions/1).
 2. Inside the discussion thread, scroll down to view the existing comments and find the comment box.
@@ -70,7 +70,7 @@ To join the discussions, ask questions, share ideas, and get support, follow the
 4. To preview how your comment will look before posting it, click the **Preview** tab located below the comment box to help ensure your comment appears as intended.
 5. After you've written your comment and reviewed it, click the **Comment** or **Submit** button to add your comment to the discussion thread.
 To receive notifications about new comments or updates to the discussion, click the **Watch** button near the top-right corner of the discussion page. This will ensure you stay up to date with any new activity in the discussion. And that's it! Your comment should now be added to the GitHub discussion thread.
-# Issues
+### Issues
 To use issue tracker for bug reports, custom feature requests, and other issues, follow these steps:
 1. Click [here](https://github.com/TranscriptAI/TranscribeAI/issues/new/choose) to create new issue.
 2. In the issue creation form, enter a title for your issue. Also in the main text area, provide a detailed description of the issue, including any relevant information such as steps to reproduce a bug or suggestions for implementing a new feature.
@@ -78,5 +78,5 @@ To use issue tracker for bug reports, custom feature requests, and other issues,
 4. Add additional context by attaching files, including screenshots or code snippets, by clicking on the **Attach files** button. Use the formatting options provided by Markdown to structure your issue description or add code blocks.
 5. If you want to see how your issue will look before submitting it, click the **Preview** tab located below the issue form. This step is optional but can help ensure your issue appears as intended.
 6. After you've provided all the necessary information, click the **Submit new issue** button at the bottom of the form to create the issue. That's it! You've successfully created an issue on GitHub.
-# License
+### License
 This software is licensed under the **MIT License**.
