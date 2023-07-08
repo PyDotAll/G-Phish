@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/TranscriptAI/GPhish/assets/136038564/7b9530d2-3c30-4c1c-8f6c-ce4fec263ece" alt="MasterHead" width="50%">
+</div>
+
 <h1 align="center">GPhish</h1>
 <p align="center">
   <a href="https://www.python.org">
