@@ -69,7 +69,7 @@ However, don't be confused about what's called a webdriver or webdriver-manager.
 ### Other Non-Default Installations 😄
 For other non-default python libraries, please install via main/requirements.txt. Most of them are only HTML parsers that need to be installed to improve the deliverability of HTML parsing and encoding detection using bs4 library. Remember, GIYBF (Google Is Your Best Friend) always.
 ```cmd
-(venv_name) C:\Users\Username\python_project_file>pip install lxml
+(venv_name) C:\Users\Username\python_project_file>pip install lxml, beautifulsoup4, flask, fake-headers
 ```
 
 ## Usage
