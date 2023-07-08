@@ -67,7 +67,11 @@ However, don't be confused about what's called a webdriver or webdriver-manager.
 (venv_name) C:\Users\Username\python_project_file>pip install -U selenium
 ```
 ### Other Non-Default Installations 😄
-For other non-default python libraries, please install via main/requirements.txt. Most of them are only HTML parsers that need to be installed to improve the deliverability of HTML parsing and encoding detection using bs4 library.
+For other non-default python libraries, please install via main/requirements.txt. Most of them are only HTML parsers that need to be installed to improve the deliverability of HTML parsing and encoding detection using bs4 library. Remember, GIYBF (Google Is Your Best Friend) always.
+```cmd
+(venv_name) C:\Users\Username\python_project_file>pip install lxml
+```
+
 ## Usage
 ### Just Run POC.py 🤩
 That's how simple it is. If you have any concerns on your own end or any enhancements, please do let me know. You can convert POC.py to executable file using pyinstaller library if you want a simple click, but that would require modifications to the code to integrate CLI using Windows' CMD.
