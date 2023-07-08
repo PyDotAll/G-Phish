@@ -45,9 +45,9 @@ However, in spite of the possibility, there's no foolproof method for real hacki
 >>>> Based on Google's current CSS selectors 
 ### Disadvantages of GPhish 😒
 > Runs on http but will soon be run on https
->> Does not support anonymity in the account creation, use with precaution
+>> Does not support anonymity in account creation; use with precaution
 
-Still fixing the checkbox that's triggering the malfunction. The fake_headers library only generates 50% success in achieving a 200 HTTP status code. I'm planning to create a workaround for this, maybe a good'al ML algorithm that can help it perform better. 
+Still fixing the checkbox that's triggering the malfunction. The fake_headers library only generates 50% success in achieving a 200 HTTP status code. I'm planning to create a workaround for this—maybe a good ML algorithm that can help it perform better.
 ## Installation
 ### Webdriver Manager Over The Regular 🥸
 Please update your venv to 3.11 to avoid any further issues. If you don't have v3.11 yet, I highly encourage you to create one by installing the necessary Python version for it. This would make the code execution more robust.
@@ -62,12 +62,12 @@ After pip installing webdriver-manager, install undetectable-chromedriver using 
 ```
 The purpose of using this is to optimize the Selenium Chromedriver patch. This avoids the triggering of anti-bot services like Distill Network, Imperva, DataDome, Botprotect.io, and so on. This also automatically downloads the driver binary and patches it.
 ### Don't Forget Selenium 😇
-However, don't be confused about what's webdriver or webdriver-manager. Therefore, you should still install Selenium via pip because it's the most crucial part to make browser automation possible at POC.py.
+However, don't be confused about what's called a webdriver or webdriver-manager. Therefore, you should still install Selenium via pip because it's the most crucial part of making browser automation possible at POC.py.
 ```cmd
 (venv_name) C:\Users\Username\python_project_file>pip install -U selenium
 ```
-### Other Non Default Installations 😄
-For other non default python libraries, please install via main/requirements.txt. 
+### Other Non-Default Installations 😄
+For other non-default python libraries, please install via main/requirements.txt. Most of them are only HTML parsers that need to be installed to improve the deliverability of HTML parsing and encoding detection using bs4 library.
 ## Usage
 ### Just Run POC.py 🤩
 That's how simple it is. If you have any concerns on your own end or any enhancements, please do let me know. You can convert POC.py to executable file using pyinstaller library if you want a simple click, but that would require modifications to the code to integrate CLI using Windows' CMD.
