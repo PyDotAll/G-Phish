@@ -7,9 +7,6 @@
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Python-3.11-blue.svg?logo=python" alt="Python" width="105"/>
   </a>
-  <a href="https://github.com/keras-team/keras">
-    <img src="https://img.shields.io/badge/Keras-2.7.0-red.svg?logo=keras" alt="Keras" width="103"/>
-  </a>
   <a href="https://bestpractices.coreinfrastructure.org/projects/7452">
     <img src="https://bestpractices.coreinfrastructure.org/projects/7452/badge" alt="OpenSSF Best Practices" width="242"/>
   </a>
